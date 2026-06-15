@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://b510badljbxll"
+
+[deps]
+
+files=["res://data/latency_2048_log.latency.translation", "res://data/latency_2048_log.chunk.translation"]
+
+source_file="res://data/latency_2048_log.csv"
+dest_files=["res://data/latency_2048_log.latency.translation", "res://data/latency_2048_log.chunk.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

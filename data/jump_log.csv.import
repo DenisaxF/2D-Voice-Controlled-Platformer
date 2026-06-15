@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://b0ili8aqutumj"
+
+[deps]
+
+files=["res://data/jump_log.pitch.translation", "res://data/jump_log.jump.translation", "res://data/jump_log.jump.translation"]
+
+source_file="res://data/jump_log.csv"
+dest_files=["res://data/jump_log.pitch.translation", "res://data/jump_log.jump.translation", "res://data/jump_log.jump.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

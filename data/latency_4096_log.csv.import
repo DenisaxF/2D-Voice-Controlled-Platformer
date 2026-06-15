@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dt1pisdj8vo2g"
+
+[deps]
+
+files=["res://data/latency_4096_log.latency.translation", "res://data/latency_4096_log.chunk.translation"]
+
+source_file="res://data/latency_4096_log.csv"
+dest_files=["res://data/latency_4096_log.latency.translation", "res://data/latency_4096_log.chunk.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://to1ynhl4y8ei"]
+
+[ext_resource type="Script" uid="uid://bw3yneb1c5g4y" path="res://Assets/Scripts/area_2d.gd" id="1_535jb"]
+[ext_resource type="Texture2D" uid="uid://b7mhymsiw2biu" path="res://Assets/Sprites/flagRed2.png" id="1_inws7"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_535jb"]
+size = Vector2(16.451723, 18.285713)
+
+[node name="Area2D" type="Area2D" unique_id=2044083911]
+script = ExtResource("1_535jb")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=434814664]
+position = Vector2(-5.0994167, 0)
+scale = Vector2(6.8198833, 7)
+shape = SubResource("RectangleShape2D_535jb")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1270070216]
+texture = ExtResource("1_inws7")
