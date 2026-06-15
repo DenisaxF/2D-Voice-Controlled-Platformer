@@ -20,7 +20,7 @@ Proiect de licență ce implementează un joc platformer 2D controlat prin voce.
 ## Rulare
 
 ```bash
-python voice_detector.py
+python voice_detection.py
 ```
 
 Apoi deschideți proiectul în Godot și rulați scena principală.
